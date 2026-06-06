@@ -1,0 +1,54 @@
+﻿{
+    "name":  "Aulas Charlie Echo Jus 9",
+    "short_name":  "Aulas Charlie",
+    "description":  "Repertorio de aulas da Charlie Echo com salas, memoria curta local, governanca e continuidade de estudo.",
+    "lang":  "pt-BR",
+    "dir":  "ltr",
+    "id":  "/?source=pwa",
+    "start_url":  "/?source=pwa",
+    "scope":  "/",
+    "display":  "standalone",
+    "background_color":  "#07111f",
+    "theme_color":  "#d4a72c",
+    "categories":  [
+                       "business",
+                       "education",
+                       "productivity"
+                   ],
+    "icons":  [
+                  {
+                      "purpose":  "any maskable",
+                      "type":  "image/svg+xml",
+                      "sizes":  "any",
+                      "src":  "/assets/jus9-logo-completo.svg"
+                  }
+              ],
+    "shortcuts":  [
+                      {
+                          "url":  "https://jus9tecnologia.com.br/",
+                          "description":  "Abrir site principal da Jus 9.",
+                          "name":  "Jus 9 Tecnologia Juridica",
+                          "icons":  [
+                                        {
+                                            "type":  "image/svg+xml",
+                                            "sizes":  "any",
+                                            "src":  "/assets/jus9-logo-completo.svg"
+                                        }
+                                    ],
+                          "short_name":  "Jus 9"
+                      },
+                      {
+                          "url":  "https://charlieecho.jus9tecnologia.com.br/",
+                          "description":  "Abrir casa publica da Charlie Echo.",
+                          "name":  "Charlie Echo",
+                          "icons":  [
+                                        {
+                                            "type":  "image/svg+xml",
+                                            "sizes":  "any",
+                                            "src":  "/assets/jus9-logo-completo.svg"
+                                        }
+                                    ],
+                          "short_name":  "Charlie"
+                      }
+                  ]
+}
