@@ -13,7 +13,7 @@ arquivo.
 
 | Módulo | Estado | Início | Portão | Revisor | Observação |
 |---|---|---|---|---|---|
-| 0. Preparação e diagnóstico | Não iniciado | — | — | — | — |
+| 0. Preparação e diagnóstico | Conheceu | 29/07/2026 | Praticar mais | Charlie Juris / Codex | Parte A: compreensão 2; execução ainda não demonstrada |
 | 1. Fundamentos | Não iniciado | — | — | — | — |
 | 2. Git e GitHub | Não iniciado | — | — | — | — |
 | 3. HTML, CSS e JavaScript | Não iniciado | — | — | — | — |
@@ -30,7 +30,7 @@ Estados permitidos: `Não iniciado`, `Conheceu`, `Praticou`, `Dominou`,
 
 | Data | Módulo | Atividade | Arquivo/commit | Resultado | Próxima ação |
 |---|---|---|---|---|---|
-| — | — | — | — | — | — |
+| 29/07/2026 | 0 | Parte A — compreensão | `docs/avaliacoes/MODULO_0_PARTE_A_2026-07-29.md`; hotfix `dc4e85f` | Conheceu; média preliminar 1,25 | executar Parte B com evidências |
 
 ## Avaliação de portão
 
@@ -63,5 +63,15 @@ Aprovação humana:
 - Como verifiquei:
 - Risco de segurança ou governança observado:
 - Próximo exercício:
+
+### 29/07/2026 — Módulo 0, Parte A
+
+- O que aprendi: conceitos básicos de ambiente, código, dado, configuração e segredo.
+- O que consegui executar: nenhuma execução foi demonstrada nesta etapa.
+- O que ainda não compreendo: relação específica do Node.js com os exemplos e limites de publicação de configurações.
+- Erro mais útil: o roteador confundiu o diagnóstico com peça jurídica; a tentativa foi descartada e o classificador recebeu regressão.
+- Como verifiquei: resposta recebida após hotfix, operação `diagnostico_formacao_programacao`, MVP `DEJ_ESTUDANTES`, 70 testes aprovados.
+- Risco de segurança ou governança observado: configuração nem sempre é pública; segredo nunca deve ser exposto.
+- Próximo exercício: Parte B, com execução observada, erro provocado e evidência.
 
 © Jus 9 Tecnologia Jurídica — autoria preservada.
