@@ -1,7 +1,8 @@
 {
-  "repo": "aulas-charlie-echo-jus9",
-  "status": "novo",
+  "repo": "aulas-charlie-echo-jus9-tecnologia-juridica",
+  "status": "formacao_ativa",
   "title": "Aulas Charlie Echo Jus 9",
-  "summary": "feat: criar portal de aulas públicas da Charlie Echo",
-  "created_at": "2026-05-15T17:44:09.478640+00:00"
+  "summary": "Curriculo governado, Modulo 0, diagnostico e salas temporarias de aprendizagem.",
+  "canonical_channel": "https://charlieecho.jus9tecnologia.com.br/ia-estudantes.html",
+  "updated_at": "2026-07-29T23:59:00-03:00"
 }

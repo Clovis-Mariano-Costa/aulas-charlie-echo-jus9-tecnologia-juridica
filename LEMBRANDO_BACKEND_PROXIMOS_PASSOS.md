@@ -23,8 +23,8 @@ Se nao puder ser feito imediatamente com seguranca, nao simular como se estivess
 2. Listar entidades e campos: usuario, equipe, cliente, processo, documento, prazo, agenda, mensagem, investimento ou log.
 3. Definir permissoes por perfil: fundador, equipe, advogado, cliente, IA, auditor e visitante.
 4. Modelar banco e migracoes no repertorio db-modelos-migracoes-jus9-tecnologia-juridica.
-5. Implementar APIs no repertorio ackend-api-jus9-tecnologia-juridica.
-6. Ligar autenticacao e identidade no repertorio uth-identidade-acesso-jus9-tecnologia-juridica.
+5. Implementar APIs no repertorio ackend-api-jus9-tecnologia-juridica.
+6. Ligar autenticacao e identidade no repertorio uth-identidade-acesso-jus9-tecnologia-juridica.
 7. Registrar logs e trilhas no repertorio logs-auditoria-jus9-tecnologia-juridica.
 8. Tratar documentos e criptografia no repertorio cofre-documentos-seguros-jus9-tecnologia-juridica.
 9. Preparar deploy, secrets e workers nos repertorios infra-cloudflare-jus9-tecnologia-juridica e workers-pages-functions-jus9-tecnologia-juridica.
