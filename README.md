@@ -1,5 +1,13 @@
 # aulas-charlie-echo-jus9-tecnologia-juridica
 
+## Formação de Charlie Echo
+
+- [Currículo Mestre de Programação](docs/CURRICULO_MESTRE_CHARLIE_ECHO.md)
+- [Caderno de progresso](docs/CADERNO_DE_PROGRESSO_CHARLIE_ECHO.md)
+- [Auditoria técnica e pedagógica de 29/07/2026](docs/AUDITORIA_TECNICA_PEDAGOGICA_2026-07-29.md)
+
+Regra central: Charlie Echo deve aprender, praticar e demonstrar domínio antes
+de ser autorizada a ensinar um tema.
 
 ## Links institucionais Jus 9 v1.5
 
@@ -24,5 +32,5 @@ O fundador confirma que, ate 21/07/2026, o trabalho produtivo do ecossistema foi
 
 Regras permanentes: nao publicar credenciais, tokens, cookies, IDs privados de sessao ou dados pessoais desnecessarios; usar dados ficticios nas demonstracoes; exigir revisao humana para trabalho juridico; e falhar de forma fechada quando uma fonte oficial estiver indisponivel. O CNJ ainda nao respondeu ao contato institucional registrado, e o silencio nao autoriza integracao ou efeito transacional.
 
-**Repositorio catalogado:** $Repository.
+**Repositorio catalogado:** `aulas-charlie-echo-jus9-tecnologia-juridica`.
 <!-- JUS9_ECOSYSTEM_STATUS_END -->
