@@ -1,2 +1,102 @@
-<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Aulas Charlie Echo Jus 9</title><link rel="stylesheet" href="assets/css/styles.css"><link rel="stylesheet" href="assets/css/visual-jus9-fase-final.css">  <link rel="manifest" href="manifest.webmanifest">
-</head><body><div class="assinatura">© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.</div><header class="header"><nav class="nav"><div class="logo">JUS <span>9</span></div><div class="links"><a href="index.html">Início</a><a href="#mvp">Acompanhe os MVPs</a><a href="#governanca">Governança</a><a href="#equipe">Equipe</a><a href="#contato">Contato</a></div></nav></header><main class="page"><section class="hero"><div><div class="kicker">Startup legaltech • MVP em desenvolvimento</div><h1>O futuro do Direito começa com uma arquitetura de confiança.</h1><p class="lead">A Jus 9 integra Direito, tecnologia, IA, governança, segurança, documentação e autoria preservada.</p><p>A Jus 9 nasce no presente com os olhos voltados para os próximos mil anos.</p><a class="btn" href="#mvp">Acompanhe o MVP</a></div><div class="card"><h2>Aulas Charlie Echo Jus 9</h2><p>Repertório atualizado no padrão visual e de governança da Jus 9.</p></div></section><section class="chat-section" id="aulas-chat"><div class="kicker">Charlie Echo em aula</div><h2>Salas de aula com memoria</h2><p>Abra uma sala para cada aula, revisao ou exercicio. Charlie Echo usa a memoria local da sala para concatenar perguntas e manter continuidade.</p><div class="chat-room-panel" data-room-panel="aulas"><div><strong>Salas de aula</strong><p>Separe os estudos por tema, turma, MVP ou protocolo.</p></div><div class="chat-room-actions"><button class="btn" type="button" data-room-new="aulas">Nova sala</button><button class="btn secondary" type="button" data-room-rename="aulas">Renomear sala</button><button class="btn secondary" type="button" data-room-archive="aulas">Arquivar</button><button class="btn secondary" type="button" data-room-delete="aulas">Excluir</button></div><div class="chat-room-list" data-room-list="aulas"></div></div><label class="chat-label" for="aulas-question">Pergunta da aula</label><textarea id="aulas-question" rows="6" placeholder="Ex.: Continue a explicacao anterior e transforme em um exercicio guiado."></textarea><button class="btn" type="button" id="aulas-send">Enviar para Charlie Echo</button><div class="chat-response" id="aulas-response" aria-live="polite">Charlie Echo aguardando a pergunta desta aula.</div></section></main><footer class="footer">© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.</footer><script src="assets/js/aulas-charlie-chat.js?v=1.1"></script></body></html>
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Portal de formação em programação da Charlie Echo, com currículo, diagnóstico e salas locais de estudo.">
+  <title>Aulas Charlie Echo Jus 9</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="stylesheet" href="assets/css/visual-jus9-fase-final.css">
+  <link rel="manifest" href="manifest.webmanifest">
+</head>
+<body>
+  <div class="assinatura">© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.</div>
+  <header class="header">
+    <nav class="nav" aria-label="Navegação principal">
+      <a class="logo" href="index.html" aria-label="Início da Jus 9">JUS <span>9</span></a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="menu-principal">Menu</button>
+      <div class="links" id="menu-principal">
+        <a href="index.html">Início</a>
+        <a href="#formacao">Formação</a>
+        <a href="#aulas-chat">Sala de aula</a>
+        <a href="https://charlieecho.jus9tecnologia.com.br/governanca.html">Governança</a>
+        <a href="https://equipe.jus9tecnologia.com.br/">Equipe</a>
+        <a href="mailto:Contato@jus9tecnologia.com.br">Contato</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="page">
+    <section class="hero">
+      <div>
+        <div class="kicker">Formação técnica • aprender antes de ensinar</div>
+        <h1>O futuro do Direito começa com uma arquitetura de confiança.</h1>
+        <p class="lead">A Charlie Echo aprende programação por etapas, demonstra domínio e só então recebe autorização humana para ensinar.</p>
+        <p>A trilha integra fundamentos, Git e GitHub, Web, Node.js e APIs, bancos de dados, segurança/LGPD e arquitetura Jus 9.</p>
+        <a class="btn" href="#formacao">Começar pelo Módulo 0</a>
+      </div>
+      <div class="card">
+        <h2>Aulas Charlie Echo Jus 9</h2>
+        <p>Currículo governado, evidências verificáveis e revisão humana em cada portão de domínio.</p>
+      </div>
+    </section>
+
+    <section class="learning-grid" id="formacao" aria-labelledby="titulo-formacao">
+      <div>
+        <div class="kicker">Trilha oficial</div>
+        <h2 id="titulo-formacao">Preparação e diagnóstico</h2>
+        <p>O Módulo 0 reúne o mapa de fontes, a primeira aula executável, o diagnóstico inicial e a rubrica usada para decidir o próximo passo.</p>
+      </div>
+      <div class="grid">
+        <article class="card">
+          <h3>Currículo Mestre</h3>
+          <p>Visão completa da formação técnica e dos critérios de progressão.</p>
+          <a class="btn ghost" href="docs/CURRICULO_MESTRE_CHARLIE_ECHO.md">Abrir currículo</a>
+        </article>
+        <article class="card">
+          <h3>Módulo 0</h3>
+          <p>Preparação, Olá Mundo, diagnóstico e portão inicial de domínio.</p>
+          <a class="btn ghost" href="MODULOS/00_PREPARACAO_E_DIAGNOSTICO/README.md">Abrir módulo</a>
+        </article>
+        <article class="card">
+          <h3>Caderno de progresso</h3>
+          <p>Registro das evidências, revisões e decisões humanas da aprendizagem.</p>
+          <a class="btn ghost" href="docs/CADERNO_DE_PROGRESSO_CHARLIE_ECHO.md">Abrir caderno</a>
+        </article>
+      </div>
+    </section>
+
+    <section class="chat-section" id="aulas-chat">
+      <div class="kicker">Charlie Echo em aula</div>
+      <h2>Salas de aula com memória temporária</h2>
+      <p>Abra uma sala para cada aula, revisão ou exercício. A memória existe somente nesta aba do navegador e é apagada quando a sessão termina.</p>
+      <div class="notice" role="note">
+        <strong>Transparência:</strong> respostas da API e orientações locais aparecem com rótulos diferentes. Uma falha de conexão nunca será registrada como resposta da Charlie Echo.
+      </div>
+      <div class="chat-room-panel" data-room-panel="aulas">
+        <div>
+          <strong>Salas de aula</strong>
+          <p>Separe os estudos por tema, turma, MVP ou protocolo.</p>
+        </div>
+        <div class="chat-room-actions">
+          <button class="btn" type="button" data-room-new="aulas">Nova sala</button>
+          <button class="btn secondary" type="button" data-room-rename="aulas">Renomear sala</button>
+          <button class="btn secondary" type="button" data-room-archive="aulas">Arquivar</button>
+          <button class="btn secondary" type="button" data-room-delete="aulas">Excluir</button>
+        </div>
+        <div class="chat-room-list" data-room-list="aulas"></div>
+      </div>
+      <label class="chat-label" for="aulas-question">Pergunta da aula</label>
+      <textarea id="aulas-question" rows="6" placeholder="Ex.: Continue a explicação anterior e transforme em um exercício guiado."></textarea>
+      <button class="btn" type="button" id="aulas-send">Enviar para Charlie Echo</button>
+      <div class="chat-status" id="aulas-status" aria-live="polite">Pronto para enviar. Ctrl+Enter também envia.</div>
+      <div class="chat-response" id="aulas-response" aria-live="polite" data-source="idle">
+        Charlie Echo aguardando a pergunta desta aula.
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.</footer>
+  <script src="assets/js/aulas-charlie-chat.js?v=2.0"></script>
+</body>
+</html>

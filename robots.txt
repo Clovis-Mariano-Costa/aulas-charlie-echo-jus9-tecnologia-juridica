@@ -1,4 +1,4 @@
-﻿User-agent: *
+User-agent: *
 Allow: /
 Disallow: /admin/
 Disallow: /api/
@@ -8,4 +8,5 @@ Disallow: /internal/
 Disallow: /cofre/
 Disallow: /.env
 
-Sitemap: https://clovis-mariano-costa.github.io/aulas-charlie-echo-jus9-tecnologia-juridica/sitemap.xml
+# O repositório é a fonte canônica do material. Publicação em GitHub Pages
+# deve ser habilitada e validada antes de anunciar um sitemap público.
