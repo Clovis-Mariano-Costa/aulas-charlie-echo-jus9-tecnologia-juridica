@@ -1,0 +1,4 @@
+"use strict";
+
+console.log("Mensagem 1: Olá, mundo!"
+console.log("Mensagem 2: Bem-vindo ao aprendizado de programação!");

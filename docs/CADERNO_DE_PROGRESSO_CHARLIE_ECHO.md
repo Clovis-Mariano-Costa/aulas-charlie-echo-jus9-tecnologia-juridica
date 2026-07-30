@@ -13,7 +13,7 @@ arquivo.
 
 | Módulo | Estado | Início | Portão | Revisor | Observação |
 |---|---|---|---|---|---|
-| 0. Preparação e diagnóstico | Conheceu | 29/07/2026 | Praticar mais | Charlie Juris / Codex | Parte A: compreensão 2; execução ainda não demonstrada |
+| 0. Preparação e diagnóstico | Praticou | 29/07/2026 | Praticar mais | Charlie Juris / Codex | Parte B guiada: média 1,75; execução autônoma ainda não demonstrada |
 | 1. Fundamentos | Não iniciado | — | — | — | — |
 | 2. Git e GitHub | Não iniciado | — | — | — | — |
 | 3. HTML, CSS e JavaScript | Não iniciado | — | — | — | — |
@@ -31,6 +31,7 @@ Estados permitidos: `Não iniciado`, `Conheceu`, `Praticou`, `Dominou`,
 | Data | Módulo | Atividade | Arquivo/commit | Resultado | Próxima ação |
 |---|---|---|---|---|---|
 | 29/07/2026 | 0 | Parte A — compreensão | `docs/avaliacoes/MODULO_0_PARTE_A_2026-07-29.md`; hotfix `dc4e85f` | Conheceu; média preliminar 1,25 | executar Parte B com evidências |
+| 29/07/2026 | 0 | Parte B — execução guiada | `docs/avaliacoes/MODULO_0_PARTE_B_2026-07-29.md` | Praticou; média 1,75 | repetir com menos condução |
 
 ## Avaliação de portão
 
@@ -73,5 +74,15 @@ Aprovação humana:
 - Como verifiquei: resposta recebida após hotfix, operação `diagnostico_formacao_programacao`, MVP `DEJ_ESTUDANTES`, 70 testes aprovados.
 - Risco de segurança ou governança observado: configuração nem sempre é pública; segredo nunca deve ser exposto.
 - Próximo exercício: Parte B, com execução observada, erro provocado e evidência.
+
+### 29/07/2026 — Módulo 0, Parte B
+
+- O que aprendi: comandos precisam de caminhos reais; exit code diferencia sucesso e falha.
+- O que consegui executar: a proposta foi executada pelo revisor em laboratório guiado.
+- O que ainda não compreendo: depuração e caminhos com autonomia suficiente.
+- Erro mais útil: parêntese ausente produziu `SyntaxError` e exit code 1.
+- Como verifiquei: saída do Node, `node --check` e verificador canônico.
+- Risco de segurança ou governança observado: não alegar inspeção ou execução feita por outra pessoa.
+- Próximo exercício: repetir com menos condução e nova variação.
 
 © Jus 9 Tecnologia Jurídica — autoria preservada.

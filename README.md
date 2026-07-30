@@ -4,6 +4,7 @@
 
 - [Currículo Mestre de Programação](docs/CURRICULO_MESTRE_CHARLIE_ECHO.md)
 - [Caderno de progresso](docs/CADERNO_DE_PROGRESSO_CHARLIE_ECHO.md)
+- [Passaporte de Competências](docs/PASSAPORTE_DE_COMPETENCIAS_CHARLIE_ECHO.md)
 - [Auditoria técnica e pedagógica de 29/07/2026](docs/AUDITORIA_TECNICA_PEDAGOGICA_2026-07-29.md)
 - [Módulo 0 — Preparação, diagnóstico e Olá Mundo](MODULOS/00_PREPARACAO_E_DIAGNOSTICO/README.md)
 
