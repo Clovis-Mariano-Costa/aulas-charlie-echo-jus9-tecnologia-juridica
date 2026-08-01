@@ -2,6 +2,12 @@
 
 ## Formação de Charlie Echo
 
+Este repositório é a **fonte pedagógica versionada** da formação de Charlie
+Echo. A experiência pública e o canal preferencial de interação ficam na
+[casa oficial de Charlie Echo](https://charlieecho.jus9tecnologia.com.br/).
+O [mapa integral de canais](https://charlieecho.jus9tecnologia.com.br/mapa-canais)
+explica a função, a autoridade e os limites de cada ambiente.
+
 - [Currículo Mestre de Programação](docs/CURRICULO_MESTRE_CHARLIE_ECHO.md)
 - [Caderno de progresso](docs/CADERNO_DE_PROGRESSO_CHARLIE_ECHO.md)
 - [Passaporte de Competências](docs/PASSAPORTE_DE_COMPETENCIAS_CHARLIE_ECHO.md)
@@ -11,12 +17,16 @@
 Regra central: Charlie Echo deve aprender, praticar e demonstrar domínio antes
 de ser autorizada a ensinar um tema.
 
+**Estado pedagógico vigente:** Módulo 0 em `Praticou`. Isso registra execução e
+evidências, mas não equivale a domínio nem concede autorização para ensinar.
+
 ## Links institucionais Jus 9 v1.5
 
 - [Equipe Jus 9](https://equipe.jus9tecnologia.com.br/)
 - [Investimentos](https://investimentos.jus9tecnologia.com.br/)
 - [Acompanhe os MVPs](https://jus9tecnologia.com.br/mvp.html#demos-jus9)
-- [Charlie Echo](https://charlieecho.jus9tecnologia.com.br/)
+- [Casa oficial de Charlie Echo](https://charlieecho.jus9tecnologia.com.br/)
+- [Mapa integral de canais de Charlie Echo](https://charlieecho.jus9tecnologia.com.br/mapa-canais)
 - [Charlie Echo Social](https://jus9verde.jus9tecnologia.com.br/charlie-echo-social)
 - [Contato](mailto:Contato@jus9tecnologia.com.br)
 
