@@ -58,8 +58,12 @@ Módulo 0: exemplos verificados com sucesso.
 Usar apenas dados fictícios. Não inserir senha, token, chave, `.env`, documento
 jurídico real, dado pessoal, conteúdo de cofre ou conversa privada.
 
-## Estado inicial
+## Estado vigente
 
-`Preparado — aguardando execução e respostas de Charlie Echo.`
+`Praticou — execução guiada e evidências registradas.`
+
+Esse estado não significa domínio e não autoriza Charlie Echo a ensinar o tema.
+Consulte o caderno de progresso e o Passaporte de Competências para as
+evidências e os próximos portões.
 
 © Jus 9 Tecnologia Jurídica — autoria preservada.
