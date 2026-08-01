@@ -1,6 +1,6 @@
 # Versionamento — Integração com a casa de Charlie Echo v1.0
 
-**Data:** 1º de agosto de 2026  
+**Data:** 1º de agosto de 2026
 **Classificação:** PÚBLICO / EDUCATIVO / CONTINUIDADE
 
 ## Alterações
