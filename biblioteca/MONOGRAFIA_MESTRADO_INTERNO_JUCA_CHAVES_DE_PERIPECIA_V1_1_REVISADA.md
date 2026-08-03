@@ -540,7 +540,7 @@ Esta versão é uma dissertação interna revisada para avaliação, não um tí
 
 AUSTIN, John L. *How to Do Things with Words*. Oxford: Clarendon Press, 1962.
 
-BANDEIRA DE MELLO, Celso Antônio. *Curso de Direito Administrativo*. São Paulo: Malheiros, edição consultada.
+BANDEIRA DE MELLO, Celso Antônio. *Curso de Direito Administrativo*. 35. ed. São Paulo: Malheiros/JusPodivm, 2021. ISBN 978-65-5860-020-6. Registro bibliográfico: LexML Brasil.
 
 BRASIL. Constituição da República Federativa do Brasil de 1988. Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm.
 
@@ -550,7 +550,7 @@ BRASIL. Lei nº 13.105, de 16 de março de 2015, Código de Processo Civil. Disp
 
 BRASIL. Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm.
 
-DI PIETRO, Maria Sylvia Zanella. *Direito Administrativo*. Rio de Janeiro: Forense, edição consultada.
+DI PIETRO, Maria Sylvia Zanella. *Direito Administrativo*. 38. ed. Rio de Janeiro: Forense, 2025. ISBN 978-85-309-9592-9.
 
 JUSTEN FILHO, Marçal. *Curso de Direito Administrativo*. São Paulo: Thomson Reuters Brasil, edição consultada.
 
