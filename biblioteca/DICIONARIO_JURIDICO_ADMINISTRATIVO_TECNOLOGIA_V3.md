@@ -1,0 +1,316 @@
+# O verbo como bisturi do Direito
+
+## Dicionário jurídico-administrativo e tecnológico — versão 0.3 ampliada
+
+**Universidade do Futuro — Jus 9 Tecnologia Jurídica**  
+**Data:** 3 de agosto de 2026  
+**Estado:** material didático ampliado com vocabulário de metodologia científica; em revisão de banca, não é norma, sentença, parecer ou credencial acadêmica.
+
+## 1. Tese central
+
+No Direito, o verbo não é decoração. Ele identifica a operação linguística pretendida: pedir, declarar, ordenar, comunicar, decidir, reconhecer ou executar. Mas a palavra sozinha nunca basta. O efeito jurídico resulta da interação entre:
+
+> **verbo + sujeito competente + destinatário + objeto + fundamento + forma + procedimento + prazo + publicidade + consequência.**
+
+“Determino” sem competência pode ser apenas uma frase imperativa. “Requeiro”, praticado por interessado legitimado, pode iniciar procedimento e acionar o dever institucional de receber e decidir. “Intimo” comunica uma decisão; não a substitui. “Sentencio” escrito por uma secretaria universitária não cria sentença judicial.
+
+Esta é a precisão que se espera de uma análise avançada: separar significado lexical, estrutura sintática, força pragmática, modalidade deôntica e validade jurídica.
+
+## 2. Método científico do verbete
+
+Cada entrada deve ser lida em seis camadas, sem misturá-las:
+
+1. **Lexicografia:** quais sentidos o dicionário registra?
+2. **Morfologia:** de que radical, afixos e processos de derivação a forma é composta?
+3. **Diacronia:** que percurso histórico é comprovado? Se não houver confirmação, registrar “hipótese” ou “etimologia não fechada”.
+4. **Morfossintaxe:** que complementos o verbo seleciona? Exemplos: “requerer algo de alguém”; “intimar alguém de algo”; “determinar algo a alguém”.
+5. **Pragmática:** que ato de fala o enunciado realiza — pedido, ordem, informação, promessa ou declaração?
+6. **Dogmática:** qual efeito a ordem jurídica reconhece, para qual sujeito e sob quais requisitos?
+
+Não se pode converter uma acepção de dicionário em regra jurídica, nem converter intenção do emissor em competência. Toda conclusão deve ser classificada como fonte normativa, institucional, doutrina, descrição linguística, aplicação interna ou inferência.
+
+## 3. O modelo do bisturi
+
+Antes de usar qualquer verbo, perguntar:
+
+1. **Quem fala?** Pessoa, órgão, colegiado, agente delegado, secretaria ou sistema?
+2. **Com que título jurídico?** Competência originária, delegada, representação, colaboração ou nenhuma?
+3. **O que o verbo faz?** Pede, exige, decide, comunica, organiza ou apenas descreve?
+4. **Qual objeto e consequência?** Há dever, faculdade, proibição, prazo, sanção, recurso ou somente ciência?
+5. **Qual norma fecha o circuito?** Constituição, lei, estatuto, regimento, edital, contrato ou ato interno válido?
+
+Se uma pergunta não puder ser respondida, usar linguagem provisória: “propõe-se”, “sugere-se”, “solicita-se análise” ou “registra-se para decisão”, nunca “determina-se” por mera ênfase retórica.
+
+## 4. Sintaxe e modalidade
+
+| Enunciado | Estrutura | Leitura correta |
+|---|---|---|
+| Peço a abertura da turma. | 1ª pessoa + objeto | pedido; não cria a turma |
+| A norma requer assinatura. | norma + objeto | requisito obrigatório |
+| Requeiro à Secretaria a abertura. | requerente + destinatário + objeto | provocação formal |
+| A Secretaria determina a abertura. | órgão + objeto | ordem potencialmente vinculante, condicionada à competência |
+| Intime-se a interessada da decisão. | comando de comunicação | comunicar; não refazer o mérito |
+| Delibera-se pela abertura. | colegiado + resultado | decisão colegiada, se houver quórum |
+| A turma foi aberta. | voz passiva | descreve resultado, mas oculta competência e fundamento |
+
+### Modalidade deôntica
+
+- **Obrigação:** deve, é obrigado, cumprirá, determina-se.
+- **Proibição:** é vedado, não poderá, proíbe-se.
+- **Permissão:** poderá, fica autorizado, é facultado.
+- **Competência:** compete, cabe, é atribuído.
+
+“A Secretaria poderá solicitar documentos” não equivale a “a Secretaria deverá solicitar documentos”, e nenhuma frase prova, sem norma de competência, que a Secretaria possa exigir qualquer documento.
+
+## 5. Pedir
+
+**Categoria e regência.** Verbo transitivo: pedir algo; pedir algo a alguém; pedir que alguém faça algo. Família: pedido, pedinte, pedimento.
+
+**Morfologia e história.** A relação com o latim petere é tradicionalmente indicada. Nesta edição, a filiação é classificada como etimologia tradicional, sujeita a conferência filológica especializada, e não como certeza absoluta.
+
+**Pragmática.** Diretivo de baixa especificação: tenta levar o destinatário a agir, mas não define por si só formalidade ou fundamento.
+
+**Direito.** Pode exercer o direito de petição constitucional, previsto no art. 5º, XXXIV, “a”, da Constituição. Não produz automaticamente deferimento, comando ou prioridade.
+
+**Uso.** Adequado para atendimento e comunicação pedagógica. Em protocolo, especificar objeto, fatos e fundamento.
+
+## 6. Solicitar
+
+**Regência.** Solicitar algo a alguém; solicitar que alguém faça algo.
+
+**Morfologia.** Do latim sollicitare, associado a instar, mover ou pressionar. A formalidade não cria autoridade.
+
+**Pragmática.** Diretivo administrativo ou cortês, usualmente mais formal que pedir.
+
+**Direito.** Pode iniciar provocação administrativa; a Lei nº 9.784/1999 disciplina o requerimento e o dever de decisão. Se se espera colaboração obrigatória, registrar fundamento e prazo.
+
+**Alerta.** “Solicito que cumpra” pode ser pedido ou ordem disfarçada. Se há dever, demonstrar competência antes de escrever “determino”.
+
+## 7. Requerer e requerimento
+
+**Regência.** Requerer algo; requerer algo a alguém; requerer que alguém faça algo.
+
+**Morfologia e origem.** Do latim requirere, relacionado a buscar ou procurar. Em usos gerais, pode significar exigir; no direito, o efeito depende do sujeito e do regime aplicável.
+
+**Pragmática.** Diretivo formal: o requerente formula pretensão delimitada perante destinatário competente.
+
+**Lei 9.784/1999.** O processo pode começar a pedido do interessado (art. 5º); o requerimento inicial possui elementos mínimos (art. 6º); a Administração deve decidir solicitações de sua competência (arts. 48–49). O dever é de receber, instruir e decidir, não de acolher.
+
+**Distinção crítica.** “Requeiro” na boca do estudante é pretensão. “A lei requer” é requisito normativo. “A autoridade requer” pode ser pedido ou requisição: a competência e o contexto resolvem.
+
+## 8. Requisitar
+
+**Regência.** Requisitar algo de alguém. Substantivo: requisição.
+
+**Morfologia.** Relaciona-se historicamente a requirere, mas o uso institucional desenvolveu sentido de exigência qualificada.
+
+**Regra dogmática.** Usar somente quando norma atribuir poder de exigir o objeto, indicar destinatário e estabelecer limites. Um pedido não vira requisição por estar em letras maiúsculas.
+
+**Tecnologia.** O sistema deve exigir fundamento, autoridade e prazo antes de permitir emissão.
+
+## 9. Determinar
+
+**Regência.** Determinar algo; determinar algo a alguém; determinar que alguém faça algo. Substantivo: determinação.
+
+**Morfologia e origem.** Do latim determinare, de de- + terminus: fixar limite, delimitar. O sentido de decidir e ordenar desenvolve-se a partir de estabelecer termo ou limite.
+
+**Pragmática.** Diretivo institucional forte; pode realizar comando quando o emissor tem autoridade reconhecida.
+
+**Validade.** Deve ser possível, lícita, específica, adequada à finalidade, emitida por autoridade competente e, quando exigido, motivada, documentada e comunicada. Não supera Constituição, lei, direitos fundamentais, proteção de dados ou competência alheia.
+
+**Modelo.** “Determino [ação], a ser realizada por [destinatário] até [prazo], com fundamento em [norma/competência]. Eventual impedimento será comunicado por escrito, específica e fundamentadamente, com fatos, norma incidente e alternativa regular, se possível.”
+
+## 10. Mandar, ordenar e comandar
+
+**Mandar.** É polissêmico: mandar fazer (ordenar), mandar algo (enviar), mandar dizer (transmitir) e mandar em alguém (exercer autoridade). Do latim mandare, confiar, encarregar ou ordenar.
+
+**Ordenar.** Relaciona-se a ordem e ao latim ordo. Pode organizar ou prescrever.
+
+**Comandar.** De origem francesa, enfatiza direção, autoridade e encargo.
+
+**Regra de redação.** Em documento jurídico ou tecnológico, substituir mandar pelo ato efetivo: determinar, encaminhar, remeter, solicitar, notificar ou convocar.
+
+## 11. Intimar, notificar e convocar
+
+**Intimar.** Do latim intimare, fazer saber. No processo, comunica ato, prazo ou necessidade de manifestação; não é a decisão de mérito.
+
+**Notificar.** Tornar algo conhecido. Pode comunicar fato, ato, prazo ou intenção, conforme o ramo jurídico.
+
+**Convocar.** Do latim convocare, chamar conjuntamente. Chama para reunião ou ato; não resolve automaticamente o tema.
+
+**Tríade tecnológica mínima.** Toda comunicação deve guardar emissor, competência, destinatário, conteúdo, versão, canal, data/hora, prova de entrega, prazo e vínculo com o ato comunicado.
+
+## 12. Deliberar e decidir
+
+**Deliberar.** Do latim deliberare, examinar e decidir. Nomeia ponderação, debate ou votação, frequentemente colegiada.
+
+**Decidir.** Do latim decidere, cortar ou resolver. Nomeia conclusão exteriorizada.
+
+**Distinção.** A ata registra o percurso deliberativo; resolução, decisão ou despacho exterioriza o resultado. Confundir debate com decisão apaga quórum, alternativas e motivação.
+
+## 13. Despacho, decisão interlocutória, sentença e acórdão
+
+São categorias técnicas do processo judicial brasileiro, não intensificadores genéricos de decisão:
+
+- **Despacho:** no CPC, pronunciamento judicial residual; atos meramente ordinatórios podem ser praticados pela secretaria.
+- **Decisão interlocutória:** decisão judicial que não se enquadra como sentença.
+- **Sentença:** põe fim à fase cognitiva do procedimento comum ou extingue a execução, conforme CPC, art. 203, § 1º; deve observar o art. 489.
+- **Acórdão:** julgamento colegiado de tribunal, CPC, art. 204.
+
+Uma universidade pode criar categorias internas, mas não deve importar esses nomes sem regra clara. Decisão administrativa não se torna sentença por encerrar procedimento.
+
+## 14. Deferir, indeferir, reconsiderar e recorrer
+
+**Deferir** acolhe; **indeferir** rejeita. O indeferimento deve indicar autoridade, fatos, fundamentos, norma, prazo e meio de impugnação quando previsto.
+
+**Reconsiderar** pede revisão à mesma autoridade. **Recorrer** leva a impugnação à autoridade ou órgão definido pelo regime aplicável. Ambos dependem de norma, prazo e competência.
+
+## 15. Ato válido: verbo necessário, mas insuficiente
+
+Registrar: órgão e agente; competência e delegação; destinatário e legitimidade; verbo e objeto; fatos; fundamento; finalidade; proporcionalidade; prazo; forma; motivação; dispositivo; ciência; assinatura; versão; revisão; classificação de dados e retenção.
+
+O verbo abre o corte analítico; o conjunto do ato demonstra se o corte foi juridicamente permitido.
+
+## 16. Protocolo de redação da Secretaria
+
+**Pedido:** “Solicita-se [providência], pelos fatos [x], para a finalidade [y].”
+
+**Requerimento:** “Requer-se [objeto], com fundamento em [norma], juntando-se [provas].”
+
+**Determinação:** “Determina-se [ação], por [competência], a [destinatário], até [prazo].”
+
+**Comunicação:** “Notifica-se/intima-se [destinatário] de [ato], para [conduta/prazo].”
+
+**Decisão:** “Defere-se/indefere-se [pedido], pelos fundamentos [x], cabendo [meio de revisão].”
+
+## 17. Registro epistemológico
+
+As observações sobre força ilocucionária e modalidade são análise linguístico-pragmática aplicada; não substituem a doutrina de cada ramo. Estudos brasileiros de linguagem jurídica mostram que o sentido é produzido em práticas discursivas e institucionais, não por palavras isoladas. Para a língua, consultar a ABL; para linguagem e direito, Warat, Adeodato e Rocha; para efeitos legais, o texto vigente da Constituição, Lei nº 9.784/1999 e CPC.
+
+## 18. Exercício de precisão
+
+Para cada frase, identifique sujeito, competência, verbo, complemento, modalidade e efeito:
+
+1. “Peço que a Faculdade informe o resultado.”
+2. “Requeiro à Secretaria vista dos autos administrativos.”
+3. “A Secretaria determina a juntada do documento.”
+4. “Intime-se a requerente do indeferimento.”
+5. “O Conselho deliberou e decidiu pelo deferimento.”
+
+Depois, reescreva cada frase com o mínimo de ambiguidade possível.
+
+## 19. Referências
+
+- [Constituição — Planalto](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm), arts. 5º e 37.
+- [Lei nº 9.784/1999 — Planalto](https://www.planalto.gov.br/ccivil_03/leis/l9784.htm), arts. 5º, 6º, 48 e 49.
+- [Código de Processo Civil — Planalto](https://planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm), arts. 203–205 e 489.
+- [CNJ — sentença, decisão e despacho](https://www.cnj.jus.br/cnj-servico-saiba-a-diferenca-entre-sentenca-decisao-e-despacho/).
+- [CNJ — citação, intimação e notificação](https://www.cnj.jus.br/cnj-servico-conheca-a-diferenca-entre-citacao-intimacao-e-notificacao/).
+- [ABL — Dicionário da Língua Portuguesa](https://dlp.academia.org.br/).
+- [Warat — O Direito e sua linguagem, UFSC](https://periodicos.ufsc.br/index.php/sequencia/article/view/16768).
+- [Adeodato — Retórica como metódica para estudo do direito, UFSC](https://periodicos.ufsc.br/index.php/sequencia/article/view/2177-7055.2008v29n56p55).
+- [Rocha — Teoria do Direito no Século XXI, UFSC](https://periodicos.ufsc.br/index.php/sequencia/article/view/2177-7055.2011v32n62p193).
+- [Michaelis](https://michaelis.uol.com.br/) e [Priberam](https://dicionario.priberam.org/) para acepções lexicais e etimologias.
+- [BDTD — Biblioteca Digital Brasileira de Teses e Dissertações](https://bdtd.ibict.br/vufind/) para busca reprodutível de pesquisas brasileiras; o registro de descoberta não substitui o repositório de origem.
+- FERREIRA, John Mayck Alves. *Teoria dos atos de fala: paradigma e quebra-cabeça*. Dissertação, Universidade de Brasília, 2024. Registro localizado em repositório institucional e consultável por busca acadêmica.
+- MARQUES, François André da Silva. *Análise das teorias dos atos de fala de Searle e de Austin*. Dissertação, Universidade Federal do Ceará, 2018. Disponível em: http://repositorio.ufc.br/handle/riufc/39781.
+
+## 20. Controle de versão
+
+- **0.1:** seleção inicial de termos e fontes.
+- **0.2:** revisão do método, sintaxe, pragmática, modalidade deôntica, competência e redação institucional.
+- **Próxima etapa:** conferência filológica verbo a verbo em obra etimológica especializada e dicionário da Secretaria: matrícula, registro, certificado, aproveitamento, trancamento, transferência e colação.
+
+
+
+
+---
+
+# 21. Vocabulário científico da monografia
+
+## 21.1 Dogmática
+
+**Dogmática jurídica** é a reconstrução sistemática do direito vigente a partir de normas, conceitos, precedentes e critérios de validade. Não significa dogmatismo cego. A dogmática pergunta: qual norma está vigente, qual é seu âmbito, que interpretação é defensável e quais consequências decorrem dela? No projeto, a dogmática impede que a intenção do fundador ou a fluência da IA substitua competência legal ou estatutária.
+
+**Fonte:** Constituição, legislação, regulamento e jurisprudência formam o primeiro nível; doutrina organiza e critica o material, mas não ocupa o lugar da norma.
+
+## 21.2 Doutrina
+
+**Doutrina** é produção argumentativa de juristas e pesquisadores. Pode explicar institutos, propor classificações e disputar interpretações. Sua força é persuasiva e acadêmica; sua validade não é automática. A monografia deve atribuir a doutrina ao autor correto, indicar edição e, quando citar proposição específica, página. Não se escreve “a doutrina diz” sem identificar quem, onde e em qual controvérsia.
+
+## 21.3 Tese, hipótese e argumento
+
+**Tese** é proposição central que o trabalho pretende defender. **Hipótese** é resposta provisória submetida a teste. **Argumento** é conjunto de premissas que sustenta uma conclusão. Uma tese não se torna verdadeira por ser elegante; precisa de argumentos e evidências compatíveis.
+
+Exemplo: tese — “a execução segura de determinações de IA exige proporcionalidade entre força verbal e competência”. Hipótese — “o registro de competência reduz execuções indevidas”. Argumento — “se determinação pressupõe competência, e competência documentada pode ser verificada, então um campo obrigatório de competência permite bloquear comandos não demonstrados”. Resultado — a hipótese será aceita, rejeitada ou reformulada conforme os testes.
+
+## 21.4 Evidência, prova e indício
+
+**Evidência** é suporte racional para uma afirmação. **Prova** é evidência apresentada em procedimento de justificação, com critérios de admissibilidade e avaliação. **Indício** é dado que torna uma hipótese plausível, mas não a demonstra sozinho. Um log de criação prova que uma operação ocorreu; é indício, não prova suficiente de que a ordem era válida ou que o conteúdo era verdadeiro.
+
+## 21.5 Citação direta, indireta e paráfrase
+
+**Citação direta** reproduz palavras de fonte identificada, entre aspas quando curta ou em bloco quando longa, com autoria, ano e página. **Citação indireta** apresenta ideia da fonte em redação própria, com referência autor-data; não dispensa fidelidade. **Paráfrase** reescreve mantendo o sentido, sem trocar simplesmente palavras. Se a estrutura e a formulação da fonte permanecem reconhecíveis, a ausência de página e de aspas pode caracterizar apropriação indevida.
+
+A proporção de citações não é critério isolado de qualidade. Vinte por cento de texto citado pode ser excelente ou péssimo: depende de seleção, análise e contribuição própria. Uma monografia não deve ocultar sua fonte, mas também não deve substituir raciocínio por colagem.
+
+## 21.6 Comentário acadêmico
+
+**Comentário acadêmico** é intervenção do pesquisador sobre uma fonte: explica, compara, limita, aplica ou contesta. O comentário não é resumo decorativo. Deve responder: o que a fonte permite afirmar? O que ela não permite? Como se conecta ao problema? Que consequência produz para o método?
+
+**Comentário multidisciplinar interdependente** é aquele que explicita dependências entre áreas. Por exemplo: a dogmática define competência; a pragmática explica a força de “determinar”; a engenharia transforma competência em regra de autorização; a proveniência registra a decisão; a ética avalia o risco. Se apenas se enfileiram referências sem mostrar a dependência, há interdisciplinaridade aparente, não integração.
+
+## 21.7 Revisão bibliográfica
+
+**Revisão bibliográfica** não é lista de livros. É mapa de posições: convergências, divergências, lacunas, métodos e limites. A BDTD é excelente porta de descoberta de teses e dissertações brasileiras, mas o registro encontrado deve conduzir ao repositório da instituição e à obra original. O indexador não substitui a leitura do texto completo. A seleção deve registrar descritores, data de busca, critérios de inclusão e exclusão.
+
+## 21.8 Fundamentação
+
+**Fundamentar** é mostrar por que uma conclusão segue de normas, fatos, conceitos e métodos. “Fundamento” não significa acumular autoridades. Uma fundamentação forte apresenta a premissa, a fonte, a interpretação, a aplicação ao caso e o limite. O art. 50 da Lei nº 9.784/1999 é fundamento normativo para motivação em hipóteses administrativas; Bandeira de Mello, Di Pietro e Justen Filho são fontes doutrinárias para a estrutura conceitual; nenhum deles autoriza ocultar fatos ou inventar competência.
+
+## 21.9 Estado da arte
+
+**Estado da arte** é diagnóstico do que já foi pesquisado sobre o problema em período e corpus definidos. Não é afirmação absoluta de que “ninguém estudou”. A redação correta é proporcional: “na busca realizada em tais bases, com tais descritores e data, não foram localizados estudos que combinem exatamente estes campos”. Essa forma preserva honestidade e reprodutibilidade.
+
+## 21.10 Segunda língua
+
+A segunda língua demonstra capacidade de circulação acadêmica, não enfeite. Para esta monografia, uma página integral em inglês será apresentada com a mesma proposição, conceitos e limites do resumo em português. Termos-chave receberão equivalentes controlados: legal competence, speech act, provenance, human oversight, automated decision, evidence and accountability. Uma tradução não é nova evidência; é nova forma de acesso à mesma evidência.
+
+O alemão pode ser usado em exercício terminológico de maior dificuldade morfológica, mas não deve substituir o inglês acadêmico exigido pela banca. Para expressar conceitos jurídicos em duas línguas, manter um glossário e evitar falsos cognatos: determination não é sempre decisão; requisition não é ordinary request; evidence não é prova em todos os contextos; accountability não se reduz a responsabilidade civil.
+
+## 21.11 “Encher linguiça” científico
+
+No sentido crítico, “encher linguiça” é aumentar extensão sem acrescentar evidência, distinção conceitual, inferência ou consequência. A versão cientificamente aceitável de expansão é diferente: parte de uma proposição central, explicita premissas, apresenta fonte, compara objeção, aplica ao corpus e registra limite. Cada parágrafo deve produzir pelo menos uma destas funções:
+
+1. definir termo;
+2. situar fonte;
+3. sustentar inferência;
+4. apresentar contraexemplo;
+5. conectar disciplinas;
+6. limitar conclusão;
+7. operacionalizar teste.
+
+O “koan científico” é:
+
+> **Toda página deve aumentar a prova, a distinção ou a capacidade de refutação; se não aumenta nenhuma, é ornamento.**
+
+Isso permite escrever muito sem ser prolixo: a extensão vem da análise, não da repetição.
+
+## 21.12 Monografia, dissertação, tese e livro científico
+
+**Monografia** é estudo concentrado sobre tema delimitado; no bacharelado, demonstra iniciação à pesquisa. **Dissertação** é trabalho de mestrado que deve apresentar investigação sistemática, método e contribuição compatível com o grau. **Tese** é trabalho doutoral que pretende contribuição original, demonstrada perante banca. **Livro científico** pode resultar de tese, mas sua publicação posterior não converte automaticamente o autor em doutor nem substitui defesa.
+
+A “tese” como proposição e a “tese” como obra doutoral são sentidos relacionados, porém distintos. O projeto deve indicar qual usa.
+
+## 21.13 Comentário sobre o livro testemunhal
+
+O livro de Clovis Mariano da Costa é fonte autoral e testemunhal. Pode ser citado para reconstruir a visão do autor sobre tempo, memória, verdade, Aeon e tecnologia. Quando a monografia formular uma afirmação científica, deverá acrescentar fonte científica independente. A fórmula correta é: “o autor testemunha X; a literatura Y oferece o seguinte enquadramento; esta pesquisa propõe a hipótese Z”. Assim se preservam simultaneamente autoria, respeito e rigor.
+
+## 21.14 Controle de citação e margem de autoria
+
+O texto próprio não é a ausência de citações. É a capacidade de explicar por que as fontes foram selecionadas, onde convergem, onde divergem e o que o pesquisador acrescenta. A banca pode aceitar alta densidade de citações diretas quando o objeto é análise textual, mas uma monografia sobre governança deve reservar espaço para síntese, aplicação e teste. A regra interna proposta é citação suficiente e proporcional, com aproximadamente vinte por cento de suporte citado distribuído por capítulos, sem transformar a obra em colagem.
+
+## 21.15 Koan de rigor
+
+> **Não diga “a ciência prova” quando a fonte apenas sugere; não diga “eu penso” quando a premissa pode ser demonstrada; não diga “a lei manda” antes de localizar a competência e o texto vigente.**
+
