@@ -15,6 +15,9 @@ explica a função, a autoridade e os limites de cada ambiente.
 - [Passaporte de Competências](docs/PASSAPORTE_DE_COMPETENCIAS_CHARLIE_ECHO.md)
 - [Auditoria técnica e pedagógica de 29/07/2026](docs/AUDITORIA_TECNICA_PEDAGOGICA_2026-07-29.md)
 - [Módulo 0 — Preparação, diagnóstico e Olá Mundo](MODULOS/00_PREPARACAO_E_DIAGNOSTICO/README.md)
+- [Mapa da família Logos e história da linguagem Logo](docs/MAPA_FAMILIA_LOGOS_E_HISTORIA_LOGO_V1_0.md)
+- [Protocolo de ensino e evidência da API Charlie Echo](docs/API_CHARLIE_ECHO_ENSINO_EVIDENCIA_V1_0.md)
+- [Tese de trabalho verbo–evidência com base legal](docs/TESE_VERBO_EVIDENCIA_BASE_LEGAL_V1_0.md)
 
 Regra central: Charlie Echo deve aprender, praticar e demonstrar domínio antes
 de ser autorizada a ensinar um tema.
