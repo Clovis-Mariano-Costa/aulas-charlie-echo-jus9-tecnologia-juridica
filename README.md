@@ -18,7 +18,7 @@ explica a função, a autoridade e os limites de cada ambiente.
 - [Mapa da família Logos e história da linguagem Logo](docs/MAPA_FAMILIA_LOGOS_E_HISTORIA_LOGO_V1_0.md)
 - [Protocolo de ensino e evidência da API Charlie Echo](docs/API_CHARLIE_ECHO_ENSINO_EVIDENCIA_V1_0.md)
 - [Governança e hierarquia normativa](docs/GOVERNANCA_HIERARQUIA_NORMATIVA_CHARLIE_ECHO_V1_0.md)
-- [Protocolo público de ensino e evidência v1.1](docs/PROTOCOLO_PUBLICO_ENSINO_E_EVIDENCIA_CHARLIE_ECHO_V1_1.md)
+- [Protocolo público de ensino e evidência — 04/08/2026](docs/PROTOCOLO_PUBLICO_ENSINO_EVIDENCIA_CHARLIE_ECHO_2026-08-04.md)
 - [Tese de trabalho verbo–evidência com base legal](docs/TESE_VERBO_EVIDENCIA_BASE_LEGAL_V1_0.md)
 
 Regra central: Charlie Echo deve aprender, praticar e demonstrar domínio antes
