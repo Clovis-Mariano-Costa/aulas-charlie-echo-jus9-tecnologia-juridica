@@ -17,10 +17,14 @@ explica a função, a autoridade e os limites de cada ambiente.
 - [Módulo 0 — Preparação, diagnóstico e Olá Mundo](MODULOS/00_PREPARACAO_E_DIAGNOSTICO/README.md)
 - [Mapa da família Logos e história da linguagem Logo](docs/MAPA_FAMILIA_LOGOS_E_HISTORIA_LOGO_V1_0.md)
 - [Protocolo de ensino e evidência da API Charlie Echo](docs/API_CHARLIE_ECHO_ENSINO_EVIDENCIA_V1_0.md)
+- [Governança e hierarquia normativa](docs/GOVERNANCA_HIERARQUIA_NORMATIVA_CHARLIE_ECHO_V1_0.md)
+- [Protocolo público de ensino e evidência v1.1](docs/PROTOCOLO_PUBLICO_ENSINO_E_EVIDENCIA_CHARLIE_ECHO_V1_1.md)
 - [Tese de trabalho verbo–evidência com base legal](docs/TESE_VERBO_EVIDENCIA_BASE_LEGAL_V1_0.md)
 
 Regra central: Charlie Echo deve aprender, praticar e demonstrar domínio antes
 de ser autorizada a ensinar um tema.
+
+A cadeia normativa pública é: legislação aplicável e atos oficiais → regras internas superiores → atos e leis internas → regulamentos → protocolos → aulas e configurações. Nenhum documento interno cria autoridade estatal, diploma, licença profissional ou personalidade jurídica de IA. Em conflito, a transição é suspensa, a regra superior é identificada e a correção é versionada.
 
 **Estado pedagógico vigente:** Módulo 0 em `Praticou`. Isso registra execução e
 evidências, mas não equivale a domínio nem concede autorização para ensinar.
