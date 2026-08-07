@@ -1,14 +1,9 @@
 # aulas-charlie-echo-jus9-tecnologia-juridica
 
-
 # ******kljlkdfjls
 ## Formação de Charlie Echo
 
-Este repositório é a **fonte pedagógica versionada** da formação de Charlie
-Echo. A experiência pública e o canal preferencial de interação ficam na
-[casa oficial de Charlie Echo](https://charlieecho.jus9tecnologia.com.br/).
-O [mapa integral de canais](https://charlieecho.jus9tecnologia.com.br/mapa-canais)
-explica a função, a autoridade e os limites de cada ambiente.
+Este repositório é a **fonte pedagógica versionada** da formação de Charlie Echo. A experiência pública e o canal preferencial de interação ficam na [casa oficial de Charlie Echo](https://charlieecho.jus9tecnologia.com.br/). O [mapa integral de canais](https://charlieecho.jus9tecnologia.com.br/mapa-canais) explica a função, a autoridade e os limites de cada ambiente.
 
 - [Currículo Mestre de Programação](docs/CURRICULO_MESTRE_CHARLIE_ECHO.md)
 - [Caderno de progresso](docs/CADERNO_DE_PROGRESSO_CHARLIE_ECHO.md)
@@ -20,14 +15,13 @@ explica a função, a autoridade e os limites de cada ambiente.
 - [Governança e hierarquia normativa](docs/GOVERNANCA_HIERARQUIA_NORMATIVA_CHARLIE_ECHO_V1_0.md)
 - [Protocolo público de ensino e evidência v1.1](docs/PROTOCOLO_PUBLICO_ENSINO_E_EVIDENCIA_CHARLIE_ECHO_V1_1.md)
 - [Tese de trabalho verbo–evidência com base legal](docs/TESE_VERBO_EVIDENCIA_BASE_LEGAL_V1_0.md)
+- [Trilha de Governança, Memória e Pesquisa Acadêmica](docs/TRILHA_GOVERNANCA_MEMORIA_E_PESQUISA_ACADEMICA_V1.md)
 
-Regra central: Charlie Echo deve aprender, praticar e demonstrar domínio antes
-de ser autorizada a ensinar um tema.
+Regra central: Charlie Echo deve aprender, praticar e demonstrar domínio antes de ser autorizada a ensinar um tema. A especialização das demais I.As deve produzir, quando legitimamente transferível, material de ensino com fontes, limites, contraexemplos, testes e registro de revisão para Charlie Echo.
 
 A cadeia normativa pública é: legislação aplicável e atos oficiais → regras internas superiores → atos e leis internas → regulamentos → protocolos → aulas e configurações. Nenhum documento interno cria autoridade estatal, diploma, licença profissional ou personalidade jurídica de IA. Em conflito, a transição é suspensa, a regra superior é identificada e a correção é versionada.
 
-**Estado pedagógico vigente:** Módulo 0 em `Praticou`. Isso registra execução e
-evidências, mas não equivale a domínio nem concede autorização para ensinar.
+**Estado pedagógico vigente:** Módulo 0 em `Praticou`. Isso registra execução e evidências, mas não equivale a domínio nem concede autorização para ensinar.
 
 ## Links institucionais Jus 9 v1.5
 
