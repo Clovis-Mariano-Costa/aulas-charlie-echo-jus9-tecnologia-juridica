@@ -1,8 +1,26 @@
-schema: JUS9_ECHO_PEDAGOGICAL_INDEX_V1
+schema: JUS9_ECHO_PEDAGOGICAL_INDEX_V1_1
 state: OPERACIONAL_EM_TESTE
-rules: [IA_FIRST, LINK_FIRST, EVIDENCE_FIRST]
+rules: [IA_FIRST, LINK_FIRST, EVIDENCE_FIRST, FAIL_CLOSED]
 repository_role: learning_hub
 not_role: total_academic_archive
+
+learning_states:
+  - EXPOSTA_AO_CONHECIMENTO
+  - LEARNING_CANDIDATE
+  - LEARNING_CONFIRMED
+  - HABILITADA_A_ENSINAR_NO_ESCOPO
+
+confirmation:
+  learning_candidate_requires:
+    - technical_tests_pass
+    - source_provenance_state_preserved
+    - teachback_without_detected_fabrication
+  learning_confirmed_requires:
+    - learning_candidate
+    - guided_human_validation_via_api
+  results: [PASS, PASS_COM_RESTRICOES, FAIL]
+  rule: LEARNED_SCOPE != UNIVERSAL_MASTERY
+
 zones:
   MODULOS:
     purpose: active_learning_modules
@@ -14,7 +32,7 @@ zones:
     purpose: pedagogical_drafts
     rule: never_delete_by_age
     exit:
-      - promote_to_reitoria_or_biblioteca
+      - promote_to_competent_institutional_destination
       - promote_to_other_canonical_repo
       - keep_for_active_learning
       - replace_local_copy_with_pointer_after_verified_move
@@ -27,9 +45,10 @@ zones:
     purpose: repository_specific_governance
   SEGURANCA:
     purpose: repository_specific_security_guidance
+
 routing:
   approved_or_mature_academic_draft:
-    destination: Secretaria_Reitoria_or_Biblioteca
+    destination: competent_institutional_destination
     keep_here: pointer_if_useful
   obsolete_but_historically_relevant:
     destination: history_or_best_canonical_archive
@@ -39,4 +58,12 @@ routing:
   secret_or_cofre:
     destination: Security_Access_Workflow
     quarantine: normal_quarantine_forbidden
+
+publication_events:
+  LIBRARY_PUBLICATION_CONFIRMED:
+    action: notify_echo
+  VADEMECUM_PUBLICATION_CONFIRMED:
+    action: notify_echo
+  notification_rule: NOTIFY != AUTHORIZE_READ
+
 curator_workhouse: https://github.com/Clovis-Mariano-Costa/familia-virtual-jus9-tecnologia-juridica/tree/main/CASAS_DE_TRABALHO/Curador-do-Acervo-Pedagogico-Charlie-Echo
