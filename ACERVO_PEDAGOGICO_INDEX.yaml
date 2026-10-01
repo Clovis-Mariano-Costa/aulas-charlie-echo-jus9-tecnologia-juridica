@@ -1,0 +1,42 @@
+schema: JUS9_ECHO_PEDAGOGICAL_INDEX_V1
+state: OPERACIONAL_EM_TESTE
+rules: [IA_FIRST, LINK_FIRST, EVIDENCE_FIRST]
+repository_role: learning_hub
+not_role: total_academic_archive
+zones:
+  MODULOS:
+    purpose: active_learning_modules
+    retention: keep_while_active_or_reference
+  docs:
+    purpose: curriculum_progress_protocols_governance_reference
+    retention: keep_if_primary_or_frequently_needed
+  RASCUNHOS:
+    purpose: pedagogical_drafts
+    rule: never_delete_by_age
+    exit:
+      - promote_to_reitoria_or_biblioteca
+      - promote_to_other_canonical_repo
+      - keep_for_active_learning
+      - replace_local_copy_with_pointer_after_verified_move
+  biblioteca:
+    purpose: local_learning_library
+    rule: borrowed_material_may_return_to_best_canonical_home
+  MODELOS_AULA:
+    purpose: reusable_teaching_templates
+  GOVERNANCA:
+    purpose: repository_specific_governance
+  SEGURANCA:
+    purpose: repository_specific_security_guidance
+routing:
+  approved_or_mature_academic_draft:
+    destination: Secretaria_Reitoria_or_Biblioteca
+    keep_here: pointer_if_useful
+  obsolete_but_historically_relevant:
+    destination: history_or_best_canonical_archive
+  pedagogically_uncertain:
+    destination: Curador_Acervo_Pedagogico
+    quarantine: false
+  secret_or_cofre:
+    destination: Security_Access_Workflow
+    quarantine: normal_quarantine_forbidden
+curator_workhouse: https://github.com/Clovis-Mariano-Costa/familia-virtual-jus9-tecnologia-juridica/tree/main/CASAS_DE_TRABALHO/Curador-do-Acervo-Pedagogico-Charlie-Echo
