@@ -1,0 +1,59 @@
+schema: JUS9_ECHO_EXTERNAL_LEARNING_SOURCES_V1
+state: OPERACIONAL_EM_TESTE
+rules: [IA_FIRST, LINK_FIRST, EVIDENCE_FIRST, NO_FORCED_COPY]
+
+purpose: >
+  Permitir que Charlie Echo encontre materiais de aprendizagem externos ao acervo institucional
+  sem copiar tudo para este repositorio e sem transformar trabalhos pessoais/academicos em canone Jus 9.
+
+sources:
+  - repo: https://github.com/Clovis-Mariano-Costa/sctec
+    type: external_learning
+    level: mixed
+  - repo: https://github.com/Clovis-Mariano-Costa/primeiroformsctec
+    type: external_learning
+    level: beginner
+  - repo: https://github.com/Clovis-Mariano-Costa/introducaocss
+    type: external_learning
+    level: beginner
+  - repo: https://github.com/Clovis-Mariano-Costa/mini-projeto-SCTec
+    type: external_learning
+    level: beginner_intermediate
+  - repo: https://github.com/Clovis-Mariano-Costa/IFSC
+    type: external_academic_learning
+    level: mixed
+  - repo: https://github.com/Clovis-Mariano-Costa/Informatica-para-internet
+    type: external_academic_learning
+    level: mixed
+  - repo: https://github.com/Clovis-Mariano-Costa/atividade-html-css
+    type: external_learning
+    level: beginner
+  - repo: https://github.com/Clovis-Mariano-Costa/m1s02
+    type: external_learning
+    level: beginner
+  - repo: https://github.com/Clovis-Mariano-Costa/m1s05
+    type: external_learning
+    level: beginner
+  - repo: https://github.com/Clovis-Mariano-Costa/m1s08
+    type: external_learning
+    level: mixed
+  - repo: https://github.com/Clovis-Mariano-Costa/m1S09
+    type: external_learning
+    level: mixed
+  - repo: https://github.com/Clovis-Mariano-Costa/olamundo-jus9-tecnologia-juridica
+    type: external_learning
+    level: beginner
+
+policy:
+  automatic_copy: false
+  treat_as_jus9_canon: false
+  may_be_used_for_echo_learning: true
+  learning_confirmed_requires:
+    - technical_tests_pass
+    - guided_human_validation_via_api
+  after_learning:
+    - keep_pointer
+    - create_learning_delta_if_material
+    - promote_only_if_separately_approved_as_jus9_knowledge
+
+principle: "Todo ensino, mesmo iniciante, pode formar Charlie Echo; encontrar a fonte e melhor do que duplicar a fonte."
