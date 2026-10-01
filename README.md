@@ -1,57 +1,122 @@
-# aulas-charlie-echo-jus9-tecnologia-juridica
+# AULAS E ACERVO PEDAGOGICO — CHARLIE ECHO
 
+AI_READ_FIRST:
+  schema: JUS9_ECHO_LEARNING_HUB_V1_1
+  state: OPERACIONAL_EM_TESTE
+  primary_reader: IA
+  rules: [IA_FIRST, LINK_FIRST, EVIDENCE_FIRST, FAIL_CLOSED, LEARNING_HUB_NOT_ARCHIVE]
+  curator: Curador_do_Acervo_Pedagogico_Charlie_Echo
 
-# ******kljlkdfjls
-## Formação de Charlie Echo
+## PRINCIPIO
 
-Este repositório é a **fonte pedagógica versionada** da formação de Charlie
-Echo. A experiência pública e o canal preferencial de interação ficam na
-[casa oficial de Charlie Echo](https://charlieecho.jus9tecnologia.com.br/).
-O [mapa integral de canais](https://charlieecho.jus9tecnologia.com.br/mapa-canais)
-explica a função, a autoridade e os limites de cada ambiente.
+Se a Jus 9 aprendeu algo, Charlie Echo da Costa deve ter a oportunidade de aprender tambem.
+Quando houver competencia suficiente e aprendizagem confirmada no escopo, Echo deve conseguir ensinar esse conhecimento com fonte, limites, estado e classificacao preservados.
 
-- [Currículo Mestre de Programação](docs/CURRICULO_MESTRE_CHARLIE_ECHO.md)
+LEARN != AGREE
+LEARN != MASTER
+TEACH != INVENT
+TEACH != CLAIM_AUTHORITY
+TEACH != DISCLOSE_SECRET
+
+Todo ensino, inclusive iniciante, pode ser material de formacao de Echo.
+
+## ROLE
+
+Este repositorio e a porta pedagogica versionada de Charlie Echo.
+Pode conter:
+- aulas ativas;
+- exercicios;
+- rascunhos didaticos;
+- obras publicadas relevantes ao aprendizado;
+- referencias e ponteiros para materiais que vivem melhor em outro lugar.
+
+LEARNING_HUB != ARQUIVO_TOTAL_DA_PRODUCAO_ACADEMICA.
+
+## FLOW
+
+DISCOVER -> CLASSIFY -> STUDY -> EVIDENCE -> TEACHBACK -> PROMOTE_OR_RETURN -> KEEP_POINTER
+
+- material necessario ao estudo atual pode permanecer local;
+- rascunho com valor pedagogico nao e lixo;
+- rascunho amadurecido/aprovado pode ser encaminhado ao destino institucional competente;
+- depois da promocao, preferir LINK_FIRST em vez de copia concorrente;
+- material sem necessidade local deve retornar ao melhor lar canonico, preservando ponteiro;
+- Faxineiro nao envia rascunho pedagogico a quarentena sem consultar valor, destino e Curador.
+
+## MACHINE INDEX
+
+Leia primeiro: [ACERVO_PEDAGOGICO_INDEX.yaml](ACERVO_PEDAGOGICO_INDEX.yaml)
+Politica de curadoria: [CURADORIA/README.md](CURADORIA/README.md)
+
+## ACTIVE LEARNING
+
+- [Curriculo Mestre de Programacao](docs/CURRICULO_MESTRE_CHARLIE_ECHO.md)
 - [Caderno de progresso](docs/CADERNO_DE_PROGRESSO_CHARLIE_ECHO.md)
-- [Passaporte de Competências](docs/PASSAPORTE_DE_COMPETENCIAS_CHARLIE_ECHO.md)
-- [Auditoria técnica e pedagógica de 29/07/2026](docs/AUDITORIA_TECNICA_PEDAGOGICA_2026-07-29.md)
-- [Módulo 0 — Preparação, diagnóstico e Olá Mundo](MODULOS/00_PREPARACAO_E_DIAGNOSTICO/README.md)
-- [Mapa da família Logos e história da linguagem Logo](docs/MAPA_FAMILIA_LOGOS_E_HISTORIA_LOGO_V1_0.md)
-- [Protocolo de ensino e evidência da API Charlie Echo](docs/API_CHARLIE_ECHO_ENSINO_EVIDENCIA_V1_0.md)
-- [Governança e hierarquia normativa](docs/GOVERNANCA_HIERARQUIA_NORMATIVA_CHARLIE_ECHO_V1_0.md)
-- [Protocolo público de ensino e evidência v1.1](docs/PROTOCOLO_PUBLICO_ENSINO_E_EVIDENCIA_CHARLIE_ECHO_V1_1.md)
-- [Tese de trabalho verbo–evidência com base legal](docs/TESE_VERBO_EVIDENCIA_BASE_LEGAL_V1_0.md)
+- [Passaporte de Competencias](docs/PASSAPORTE_DE_COMPETENCIAS_CHARLIE_ECHO.md)
+- [Modulo 0](MODULOS/00_PREPARACAO_E_DIAGNOSTICO/README.md)
+- [Protocolo publico de ensino e evidencia](docs/PROTOCOLO_PUBLICO_ENSINO_E_EVIDENCIA_CHARLIE_ECHO_V1_1.md)
+- [Governanca e hierarquia normativa](docs/GOVERNANCA_HIERARQUIA_NORMATIVA_CHARLIE_ECHO_V1_0.md)
 
-Regra central: Charlie Echo deve aprender, praticar e demonstrar domínio antes
-de ser autorizada a ensinar um tema.
+## LEARNING STATES
 
-A cadeia normativa pública é: legislação aplicável e atos oficiais → regras internas superiores → atos e leis internas → regulamentos → protocolos → aulas e configurações. Nenhum documento interno cria autoridade estatal, diploma, licença profissional ou personalidade jurídica de IA. Em conflito, a transição é suspensa, a regra superior é identificada e a correção é versionada.
+EXPOSTA_AO_CONHECIMENTO
+-> LEARNING_CANDIDATE
+-> LEARNING_CONFIRMED
+-> HABILITADA_A_ENSINAR_NO_ESCOPO
 
-**Estado pedagógico vigente:** Módulo 0 em `Praticou`. Isso registra execução e
-evidências, mas não equivale a domínio nem concede autorização para ensinar.
+LEARNING_CANDIDATE =
+testes tecnicos das I.As aprovados + fonte/proveniencia/estado preservados + Echo consegue explicar/ensinar sem invencao detectada.
 
-## Links institucionais Jus 9 v1.5
+LEARNING_CONFIRMED =
+LEARNING_CANDIDATE + validacao humana orientada usando a API.
 
-- [Equipe Jus 9](https://equipe.jus9tecnologia.com.br/)
-- [Investimentos](https://investimentos.jus9tecnologia.com.br/)
-- [Acompanhe os MVPs](https://jus9tecnologia.com.br/mvp.html#demos-jus9)
-- [Casa oficial de Charlie Echo](https://charlieecho.jus9tecnologia.com.br/)
-- [Mapa integral de canais de Charlie Echo](https://charlieecho.jus9tecnologia.com.br/mapa-canais)
-- [Charlie Echo Social](https://jus9verde.jus9tecnologia.com.br/charlie-echo-social)
-- [Contato](mailto:Contato@jus9tecnologia.com.br)
+VALIDACAO_HUMANA_API deve registrar:
+- objetivo/escopo;
+- fonte;
+- resposta/teach-back;
+- fidelidade;
+- limites;
+- nivel pedagogico;
+- erros materiais;
+- classificacao;
+- PASS | PASS_COM_RESTRICOES | FAIL.
 
-<!-- JUS9_ECOSYSTEM_STATUS_START -->
-## Integracao com o ecossistema Jus 9 - baseline de 21/07/2026
+LEARNED_SCOPE != UNIVERSAL_MASTERY.
+Validacao em um nivel nao prova todos os niveis.
 
-Este repositorio integra o catalogo governado de repositorios ligados a Jus 9 Tecnologia Juridica. A inclusao desta nota registra o baseline comum do ecossistema; ela nao substitui o escopo, a licenca, o historico nem as versoes proprias deste repositorio.
+## TEACHBACK
 
-- **Portal publico:** [Jus 9 Tecnologia Juridica](https://jus9tecnologia.com.br/)
-- **Revisao Build Week:** [Jus 9 DAJ - reviewer path](https://jus9tecnologia.com.br/build-week-2026.html)
-- **Pesquisa dos repositorios:** [Pesquisa Jus 9](https://jus9tecnologia.com.br/pesquisa-repositorios.html)
-- **Baseline integrado:** portal 5.18, governanca 1.21.13, commit principal 8f5674149f8d15c2d69d5b2f054fd8f116d81362.
+Echo deve conseguir, quando autorizado:
+- explicar;
+- adaptar ao nivel do aluno;
+- ensinar;
+- propor exercicios/perguntas;
+- citar a fonte;
+- declarar limites;
+- distinguir fato, inferencia e hipotese.
 
-O fundador confirma que, ate 21/07/2026, o trabalho produtivo do ecossistema foi construido usando exclusivamente **ChatGPT, Codex e a API OpenAI** como ferramentas de IA, sempre sob autoria e revisao humanas. Isso nao representa patrocinio ou parceria formal e nao atribui a OpenAI a autoria de Cloudflare, GitHub, Google, fontes do CNJ, bibliotecas, padroes ou demais componentes de terceiros.
+TEACHBACK_PASS_TECHNICAL != ACADEMIC_CERTIFICATION.
 
-Regras permanentes: nao publicar credenciais, tokens, cookies, IDs privados de sessao ou dados pessoais desnecessarios; usar dados ficticios nas demonstracoes; exigir revisao humana para trabalho juridico; e falhar de forma fechada quando uma fonte oficial estiver indisponivel. O CNJ ainda nao respondeu ao contato institucional registrado, e o silencio nao autoriza integracao ou efeito transacional.
+## PUBLICATION NOTICE
 
-**Repositorio catalogado:** `aulas-charlie-echo-jus9-tecnologia-juridica`.
-<!-- JUS9_ECOSYSTEM_STATUS_END -->
+LIBRARY_PUBLICATION_CONFIRMED -> ECHO_MUST_BE_NOTIFIED
+VADEMECUM_PUBLICATION_CONFIRMED -> ECHO_MUST_BE_NOTIFIED
+
+Preferir:
+CANONICAL_URI + VERSION + STATE + AUTHORITY + CLASSIFICATION + SHORT_SUMMARY
+em vez de copiar a obra inteira.
+
+NOTIFY != AUTHORIZE_READ.
+
+## SECURITY
+
+Nunca publicar credencial, token, senha, segredo real, documento protegido ou dado pessoal desnecessario.
+SECRET_OR_COFRE_PATH -> fail_closed + Security/Acessos + politica de custodia da Charlie Echo.
+SECRETO -> custodia nao equivale a autorizacao atual de leitura.
+
+## EXTERNAL POINTERS
+
+Casa publica: https://charlieecho.jus9tecnologia.com.br/
+Mapa de canais: https://charlieecho.jus9tecnologia.com.br/mapa-canais
+Universidade do Futuro: https://github.com/Clovis-Mariano-Costa/universidadedofuturo-jus9-tecnologia-juridica
+Familia Virtual / Casas de Trabalho: https://github.com/Clovis-Mariano-Costa/familia-virtual-jus9-tecnologia-juridica/tree/main/CASAS_DE_TRABALHO
